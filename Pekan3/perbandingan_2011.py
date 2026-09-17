@@ -7,7 +7,7 @@ print("\nOperator Lebih Besar Dari")
 print("Hasil =", hasil_2011)
 
 #Lebih kecil dari
-hasil = angka1_2011 < angka2_2011
+hasil_2011 = angka1_2011 < angka2_2011
 print("\nOperator Lebih Kecil Dari")
 print("Hasil =", hasil_2011)
 

@@ -6,37 +6,37 @@ angka1_2011 = int(input("Input angka-1: "))
 angka2_2011 = int(input("Input angka-2: "))
 
 #Penjumlahan
-hasil = angka1_2011 + angka2_2011
+hasil_2011 = angka1_2011 + angka2_2011
 print("\nOperator Penjumlahan")
-print("Hasil =", hasil)
+print("Hasil =", hasil_2011)
 
 #Pengurangan
-hasil = angka1_2011 - angka2_2011
-print("\Operator Pengurangan")
-print("Hasil =", hasil)
+hasil_2011 = angka1_2011 - angka2_2011
+print("\nOperator Pengurangan")
+print("Hasil =", hasil_2011)
 
 #Perkalian
-hasil = angka1_2011 * angka2_2011
-print("\Operator Perkalian")
-print("Hasil =", hasil)
+hasil_2011 = angka1_2011 * angka2_2011
+print("\nOperator Perkalian")
+print("Hasil =", hasil_2011)
 
 #Pembagian, pembagian bulat, dan sisa bagi
 if angka2_2011 != 0:
-    hasil = angka1_2011 / angka2_2011
-    print("\Operator Pembagian")
-    print("Hasil =", hasil)
+    hasil_2011 = angka1_2011 / angka2_2011
+    print("\nOperator Pembagian")
+    print("Hasil =", hasil_2011)
      
-    hasil = angka1_2011 // angka2_2011
+    hasil_2011 = angka1_2011 // angka2_2011
     print("\nOperator Pembagian Bulat")
-    print("Hasil =", hasil)
+    print("Hasil =", hasil_2011)
 
-    hasil = angka1_2011 % angka2_2011
+    hasil_2011 = angka1_2011 % angka2_2011
     print("\nOperator Sisa Bagi")
-    print("Hasil =", hasil)
+    print("Hasil =", hasil_2011)
 else:
     print("Angka kedua tidak bernilai 0.")
 
  #Pangkat
-hail = angka1_2011 ** angka2_2011
+hasil_2011 = angka1_2011 ** angka2_2011
 print("\nOperator Pangkat")
-print("Hasil =", hasil)
+print("Hasil =", hasil_2011)
